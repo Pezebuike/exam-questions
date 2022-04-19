@@ -23,7 +23,7 @@ We collate the information in this repository through students submissions , if 
 <table>
 
   <tr>
-	<td align="center"><a href="#azure-dp-900"><img src="images/azure-dp-900.png" width="75px;" height="75px;" alt="azure-DP-900"/><br /><b>Azure-DP-900</b></a></td>
+	<td align="center"><a href="azure-DP-900/README.md"><img src="images/azure-dp-900.png" width="75px;" height="75px;" alt="azure-DP-900"/><br /><b>Azure-DP-900</b></a></td>
     
   </tr>
   
