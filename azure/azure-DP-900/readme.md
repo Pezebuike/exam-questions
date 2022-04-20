@@ -4,10 +4,10 @@
 <summary>Question 1 : What is Azure?</summary><br><b>
 
   - Question 1 ? 👇
-   ![Question 1](/azure/azure-DP-900/Q1.png)
+   ![Question 1](/azure/azure-DP-900/1Q.PNG)
    
    - Answer 1 ? 👇
-   ![Answer 1](/azure/azure-DP-900/A1.png)
+   ![Answer 1](/azure/azure-DP-900/2A.PNG)
 
   - Reference : https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/etl
 
