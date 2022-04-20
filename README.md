@@ -23,8 +23,8 @@ We collate the information in this repository through students submissions , if 
 
   <tr>
 	<td align="center"><a href="/aws/README.md"><img src="image/aws.png" width="75px;" height="75px;" alt="AWS"/><br /><b>AWS</b></a></td>
-	<td align="center"><a href="/azure/README.md"><img src="images/azure.png" width="70px;" height="75px;" alt="AZURE" /><br /><b>AZURE</b></a></td>
-    <td align="center"><a href="/Google/README.md"><img src="images/googlecloud.png" width="70px;" height="75px;" alt="GCP" /><br /><b>GCP</b></a></td>
+	<td align="center"><a href="/azure/README.md"><img src="image/azure.png" width="70px;" height="75px;" alt="AZURE" /><br /><b>AZURE</b></a></td>
+    <td align="center"><a href="/Google/README.md"><img src="image/googlecloud.png" width="70px;" height="75px;" alt="GCP" /><br /><b>GCP</b></a></td>
     
   </tr>
   
