@@ -22,7 +22,7 @@ We collate the information in this repository through students submissions , if 
 <table>
 
   <tr>
-	<td align="center"><a href="./azure/readme.md"><img src="image/azure-dp-900.png" width="75px;" height="75px;" alt="Azure"/><br /><b>Azure</b></a></td>
+	<td align="center"><a href="/azure/README.md"><img src="image/azure-dp-900.png" width="75px;" height="75px;" alt="Azure"/><br /><b>Azure</b></a></td>
     
   </tr>
   
