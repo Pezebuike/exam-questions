@@ -1,8 +1,7 @@
-[![Watch the video](./image/cloudnloud.png)](https://linkedin.com/in/vijaystack)
 
 ## What is this?
 
-A collection of super-popular Exam questions, along with answers, and some code-snippets that will help you to prepare for exams. 
+A collection of popular Exam questions, along with answers, and some code-snippets that will help you to prepare for exams. 
 
 
 **Disclaimer** : The views expressed and the content shared are those of the author and dont reflext the views of the author's employer or cloudnloud platform
@@ -23,7 +22,7 @@ We collate the information in this repository through students submissions , if 
 <table>
 
   <tr>
-	<td align="center"><a href="./azure-DP-900/README.md"><img src="images/azure-dp-900.png" width="75px;" height="75px;" alt="azure-DP-900"/><br /><b>Azure-DP-900</b></a></td>
+	<td align="center"><a href="./azure-DP-900/README.md"><img src="image/azure-dp-900.png" width="75px;" height="75px;" alt="azure-DP-900"/><br /><b>Azure-DP-900</b></a></td>
     
   </tr>
   
