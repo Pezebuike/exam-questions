@@ -28,7 +28,7 @@
 </b></details>
 
 <details>
-<summary>Question 3 : bla</summary><br><b>
+<summary>Question 3 : To complete the sentence, select the appropriate option in the answer area.</summary><br><b>
 
   - Question 3 ? 👇
    ![Question 3](/azure/azure-DP-900/images/3Q.PNG)
