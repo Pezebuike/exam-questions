@@ -17,12 +17,26 @@
 <summary>Question 2 : What is Azure?</summary><br><b>
 
   - Question 2 ? 👇
-   ![Question 1](/azure/azure-DP-900/images/2Q.PNG)
+   ![Question 2](/azure/azure-DP-900/images/2Q.PNG)
    
    - Answer 2 ? 👇
-   ![Answer 1](/azure/azure-DP-900/images/2A.PNG)
+   ![Answer 2](/azure/azure-DP-900/images/2A.PNG)
 
   - Reference : 
   https://www.sqlshack.com/what-is-database-normalization-in-sql-server/
+
+</b></details>
+
+<details>
+<summary>Question 3 : What is Azure?</summary><br><b>
+
+  - Question 3 ? 👇
+   ![Question 3](/azure/azure-DP-900/images/3Q.PNG)
+   
+   - Answer 3 ? 👇
+   ![Answer 3](/azure/azure-DP-900/images/3A.PNG)
+
+  - Reference : 
+  https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/etl
 
 </b></details>
