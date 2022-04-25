@@ -1,7 +1,7 @@
 ## Azure-DP-900
 
 <details>
-<summary>Question 1 : What is Azure?</summary><br><b>
+<summary>Question 1 : To complete the sentence, select the appropriate option in the answer area.</summary><br><b>
 
   - Question 1 ? 👇
    ![Question 1](/azure/azure-DP-900/images/1Q.PNG)
@@ -14,7 +14,7 @@
 </b></details>
 
 <details>
-<summary>Question 2 : What is Azure?</summary><br><b>
+<summary>Question 2 : For each of the following statements, select Yes if the statement is true. Otherwise, select No.</summary><br><b>
 
   - Question 2 ? 👇
    ![Question 2](/azure/azure-DP-900/images/2Q.PNG)
@@ -28,7 +28,7 @@
 </b></details>
 
 <details>
-<summary>Question 3 : What is Azure?</summary><br><b>
+<summary>Question 3 : To complete the sentence, select the appropriate option in the answer area.</summary><br><b>
 
   - Question 3 ? 👇
    ![Question 3](/azure/azure-DP-900/images/3Q.PNG)
