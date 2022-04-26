@@ -66,3 +66,18 @@
   - Reference : https://azure.microsoft.com/en-us/services/cognitive-services/speech-services/
 
 </b></details>
+
+<details>
+<summary>Question 6 : Match the types of analytics that can be used to answer the business questions.
+To answer, drag the appropriate analytics type from the column on the left to its question on the right. Each analytics type may be used once, more than once, or not at all.
+Select and Place:</summary><br><b>
+
+  - Question 6 ? 👉🏽
+   ![Question 6](/azure/azure-DP-900/images/6Q.PNG)
+   
+   - Answer 6 ? 👉🏽
+   ![Answer 6](/azure/azure-DP-900/images/6A.PNG)
+
+  - Reference : https://demand-planning.com/2020/01/20/the-differences-between-descriptive-diagnostic-predictive-cognitive-analytics/ https://azure.microsoft.com/en-us/blog/answering-whats-happening-whys-happening-and-what-will-happen-with-iot-analytics/
+
+</b></details>
