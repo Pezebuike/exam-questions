@@ -72,7 +72,7 @@
 To answer, drag the appropriate analytics type from the column on the left to its question on the right. Each analytics type may be used once, more than once, or not at all.
 Select and Place:</summary><br><b>
 
-  - Question 6 ? 👇
+  - Question 6 ? 👇🏽
    ![Question 6](/azure/azure-DP-900/images/6Q.PNG)
    
    - Answer 6 ? 👉🏽
